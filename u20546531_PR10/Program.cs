@@ -7,6 +7,9 @@ namespace u20546531_PR10
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            
+
         }
     }
 }
